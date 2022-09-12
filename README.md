@@ -1,2 +1,2 @@
-# demo
-See link for demo
+# Demo link
+See link for demo:
